@@ -1,3 +1,3 @@
 This is the 1st file
 This is 1st lab
-This line is added in lab3
+This line is added in lab 3
